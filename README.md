@@ -174,7 +174,7 @@ Color scheme inspired by cyberpunk aesthetics
 Animation techniques from modern web design
 
 📞 Support
-If you have any questions or issues, please open an issue on GitHub or contact your-hasan46074@gmail.com
+If you have any questions or issues, please open an issue on GitHub or contact your-banoaysha92@gmail.com
 
 Made with ❤️ and JavaScript
 
