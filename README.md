@@ -51,7 +51,7 @@ View Live Demo <!-- Add your live demo link here -->
 Clone the repository
 
 bash
-git clone https://github.com/yourusername/futuristic-clock.git
+git clone https://github.com/hasan56790/futuristic-clock.git
 Navigate to project directory
 
 bash
